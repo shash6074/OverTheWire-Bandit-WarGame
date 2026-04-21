@@ -12,7 +12,7 @@ using below commands we can get the password same as previous one.
 
 ## Commands Used
 pwd - for checking the current working directory.
-cd - go to the inhere directory.
+cd - go to any directory.
 ls - list all the files and folders.
 cat - display the content of the file.
 find - finding the  file or directory using conditions.
