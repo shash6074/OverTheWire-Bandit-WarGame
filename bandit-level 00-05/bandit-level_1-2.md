@@ -5,7 +5,6 @@ The password for the next level is stored in a file called - located in the home
 
 ## Approach
 The Password for next level is stored in filenme called '-'. 
-To find the readme file in home directory, I used the commands as below.
 
 ## Commands Used
 pwd - for checking the current working directory.
